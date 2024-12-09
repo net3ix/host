@@ -1,0 +1,4 @@
+0.0.0.0 4chan.org
+ads.google.com
+||google.com^
+||4chan.org^
